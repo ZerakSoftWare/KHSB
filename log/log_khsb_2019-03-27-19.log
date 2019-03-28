@@ -1,0 +1,9 @@
+2019-03-27 19:03:52:623 [TRACE_FLOW]:  Func:aliasr_send_stop_asr_request, Line:259, enter aliasr_send_stop_asr_request()
+2019-03-27 19:03:52:779 [TRACE_FLOW]:  Func:aliasr_send_stop_asr_request, Line:259, enter aliasr_send_stop_asr_request()
+2019-03-27 19:17:56:920 [TRACE_FLOW]:  Func:asr_malloc_cntl_info, Line:149, enter asr_malloc_cntl_info()
+2019-03-27 19:17:56:925 [TRACE_INFO]:  Func:asr_malloc_cntl_info, Line:165, malloc g_AsrInfoIndex = 5
+2019-03-27 19:17:56:927 [TRACE_INFO]:  Func:asr_cntl_process, Line:85, asr_malloc_cntl_info success! pAsrRequest->uuid = f8db9c72-5081-11e9-874a-2d750f0790f3, ulAsrInfoIndex = 5
+2019-03-27 19:17:56:927 [TRACE_DEBUG]:  Func:ALIASR, Line:80, enter ALIASR::ALIASR()
+2019-03-27 19:17:56:930 [TRACE_DEBUG]:  Func:aliasr_generate_Token, Line:167, enter ALIASR::aliasr_generate_Token()
+2019-03-27 19:17:57:115 [TRACE_DEBUG]:  Func:ali_asr_thread, Line:469, enter ali_asr_thread
+2019-03-27 19:17:57:270 [TRACE_INFO]:  Func:onTranscriptionStarted, Line:350, pAsrObj->strTaskId = dbbfdfec054e484998ec54265a2d3810, pAsrObj->ulAsrInfoNumber = 5

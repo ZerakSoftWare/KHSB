@@ -1,0 +1,30 @@
+2019-03-22 13:48:19:882 [TRACE_INFO]:  Func:aliasr_get_config, Line:98, AppKey =  jaKnIyQ2f69ZXxqI
+2019-03-22 13:48:19:965 [TRACE_INFO]:  Func:aliasr_get_config, Line:99, AccessKeyID =  LTAIu7a3tu8FVWLh
+2019-03-22 13:48:19:965 [TRACE_INFO]:  Func:aliasr_get_config, Line:100, AccessKeySecret =  yS4n8Tt2mRNdPHk4N4FsK3uL0Qq0hT
+2019-03-22 13:48:19:965 [TRACE_DEBUG]:  Func:ALIASR, Line:59, enter ALIASR::ALIASR()
+2019-03-22 13:48:19:966 [TRACE_DEBUG]:  Func:generateToken, Line:109, enter ALIASR::generateToken()
+2019-03-22 13:48:20:067 [TRACE_ERROR]:  Func:generateToken, Line:121, applyNlsToken failure: Specified signature is not matched with our calculation. server string to sign is:POST
+application/json
+1B2M2Y8AsgTpgAmY7PhCfg==
+application/octet-stream;charset=utf-8
+Fri, 22 Mar 2019 05:48:19 GMT
+x-acs-signature-method:HMAC-SHA1
+x-acs-signature-version:1.0
+x-acs-version:2018-05-18
+/pop/2018-05-18/tokens
+2019-03-22 13:48:20:072 [TRACE_INFO]:  Func:testesl, Line:93, Connect Success, 0
+2019-03-22 13:59:52:226 [TRACE_INFO]:  Func:aliasr_get_config, Line:98, AppKey =  jaKnIyQ2f69ZXxqI
+2019-03-22 13:59:52:227 [TRACE_INFO]:  Func:aliasr_get_config, Line:99, AccessKeyID =  LTAIu7a3tu8FVWLh
+2019-03-22 13:59:52:227 [TRACE_INFO]:  Func:aliasr_get_config, Line:100, AccessKeySecret =  yS4n8Tt2mRNdPHk4N4FsK3uL0Qq0hT
+2019-03-22 13:59:52:227 [TRACE_DEBUG]:  Func:ALIASR, Line:59, enter ALIASR::ALIASR()
+2019-03-22 13:59:52:227 [TRACE_DEBUG]:  Func:generateToken, Line:109, enter ALIASR::generateToken()
+2019-03-22 13:59:52:347 [TRACE_ERROR]:  Func:generateToken, Line:121, applyNlsToken failure: Specified signature is not matched with our calculation. server string to sign is:POST
+application/json
+1B2M2Y8AsgTpgAmY7PhCfg==
+application/octet-stream;charset=utf-8
+Fri, 22 Mar 2019 05:59:52 GMT
+x-acs-signature-method:HMAC-SHA1
+x-acs-signature-version:1.0
+x-acs-version:2018-05-18
+/pop/2018-05-18/tokens
+2019-03-22 13:59:52:353 [TRACE_INFO]:  Func:testesl, Line:93, Connect Success, 0

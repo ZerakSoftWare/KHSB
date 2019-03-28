@@ -1,0 +1,92 @@
+2019-03-25 14:22:10:409 [TRACE_INFO]:  Func:aliasr_get_config, Line:114, AppKey = jaKnIyQ2f69ZXxqI
+2019-03-25 14:22:10:417 [TRACE_INFO]:  Func:aliasr_get_config, Line:115, AccessKeyID = LTAIu7a3tu8FVWLh
+2019-03-25 14:22:10:418 [TRACE_INFO]:  Func:aliasr_get_config, Line:116, AccessKeySecret = yS4n8Tt2mRNdPHk4N4FsK3uL0Qq0hT
+2019-03-25 14:22:10:422 [TRACE_DEBUG]:  Func:ALIASR, Line:74, enter ALIASR::ALIASR()
+2019-03-25 14:22:10:423 [TRACE_DEBUG]:  Func:aliasr_generate_Token, Line:141, enter ALIASR::aliasr_generate_Token()
+2019-03-25 14:22:10:767 [TRACE_DEBUG]:  Func:ali_asr_thread, Line:348, enter ali_asr_thread
+2019-03-25 14:22:10:946 [TRACE_DEBUG]:  Func:recv_translate_start, Line:206, enter recv_translate_start
+2019-03-25 14:22:10:947 [TRACE_INFO]:  Func:recv_translate_start, Line:208, TaskId = f61e4f8705564f0eabff0efeab94528b
+2019-03-25 14:23:03:878 [TRACE_INFO]:  Func:aliasr_get_config, Line:114, AppKey = jaKnIyQ2f69ZXxqI
+2019-03-25 14:23:03:881 [TRACE_INFO]:  Func:aliasr_get_config, Line:115, AccessKeyID = LTAIu7a3tu8FVWLh
+2019-03-25 14:23:03:881 [TRACE_INFO]:  Func:aliasr_get_config, Line:116, AccessKeySecret = yS4n8Tt2mRNdPHk4N4FsK3uL0Qq0hT
+2019-03-25 14:23:03:882 [TRACE_DEBUG]:  Func:ALIASR, Line:74, enter ALIASR::ALIASR()
+2019-03-25 14:23:03:882 [TRACE_DEBUG]:  Func:aliasr_generate_Token, Line:141, enter ALIASR::aliasr_generate_Token()
+2019-03-25 14:23:03:963 [TRACE_DEBUG]:  Func:ali_asr_thread, Line:348, enter ali_asr_thread
+2019-03-25 14:23:04:115 [TRACE_DEBUG]:  Func:recv_translate_start, Line:206, enter recv_translate_start
+2019-03-25 14:23:04:115 [TRACE_INFO]:  Func:recv_translate_start, Line:208, TaskId = 8b7d587c9e8145c3aa6b1de0db08d09c
+2019-03-25 14:35:26:428 [TRACE_INFO]:  Func:aliasr_get_config, Line:119, AppKey = jaKnIyQ2f69ZXxqI
+2019-03-25 14:35:26:435 [TRACE_INFO]:  Func:aliasr_get_config, Line:120, AccessKeyID = LTAIu7a3tu8FVWLh
+2019-03-25 14:35:26:436 [TRACE_INFO]:  Func:aliasr_get_config, Line:121, AccessKeySecret = yS4n8Tt2mRNdPHk4N4FsK3uL0Qq0hT
+2019-03-25 14:35:26:437 [TRACE_DEBUG]:  Func:ALIASR, Line:74, enter ALIASR::ALIASR()
+2019-03-25 14:35:26:438 [TRACE_DEBUG]:  Func:aliasr_generate_Token, Line:147, enter ALIASR::aliasr_generate_Token()
+2019-03-25 14:35:26:538 [TRACE_DEBUG]:  Func:ali_asr_thread, Line:354, enter ali_asr_thread
+2019-03-25 14:36:18:954 [TRACE_INFO]:  Func:aliasr_get_config, Line:119, AppKey = jaKnIyQ2f69ZXxqI
+2019-03-25 14:36:18:957 [TRACE_INFO]:  Func:aliasr_get_config, Line:120, AccessKeyID = LTAIu7a3tu8FVWLh
+2019-03-25 14:36:18:957 [TRACE_INFO]:  Func:aliasr_get_config, Line:121, AccessKeySecret = yS4n8Tt2mRNdPHk4N4FsK3uL0Qq0hT
+2019-03-25 14:36:18:958 [TRACE_DEBUG]:  Func:ALIASR, Line:74, enter ALIASR::ALIASR()
+2019-03-25 14:36:18:960 [TRACE_DEBUG]:  Func:aliasr_generate_Token, Line:147, enter ALIASR::aliasr_generate_Token()
+2019-03-25 14:36:19:056 [TRACE_DEBUG]:  Func:ali_asr_thread, Line:354, enter ali_asr_thread
+2019-03-25 14:38:40:638 [TRACE_INFO]:  Func:aliasr_get_config, Line:120, AppKey = jaKnIyQ2f69ZXxqI
+2019-03-25 14:38:40:642 [TRACE_INFO]:  Func:aliasr_get_config, Line:121, AccessKeyID = LTAIu7a3tu8FVWLh
+2019-03-25 14:38:40:643 [TRACE_INFO]:  Func:aliasr_get_config, Line:122, AccessKeySecret = yS4n8Tt2mRNdPHk4N4FsK3uL0Qq0hT
+2019-03-25 14:38:40:643 [TRACE_DEBUG]:  Func:ALIASR, Line:74, enter ALIASR::ALIASR()
+2019-03-25 14:38:40:644 [TRACE_DEBUG]:  Func:aliasr_generate_Token, Line:148, enter ALIASR::aliasr_generate_Token()
+2019-03-25 14:38:40:729 [TRACE_DEBUG]:  Func:ali_asr_thread, Line:355, enter ali_asr_thread
+2019-03-25 14:38:40:916 [TRACE_DEBUG]:  Func:recv_translate_start, Line:213, enter recv_translate_start
+2019-03-25 14:38:40:917 [TRACE_INFO]:  Func:recv_translate_start, Line:215, TaskId = 609ef923f7c440099ce03fc3d3407f51
+2019-03-25 14:38:58:558 [TRACE_INFO]:  Func:aliasr_get_config, Line:120, AppKey = jaKnIyQ2f69ZXxqI
+2019-03-25 14:38:58:562 [TRACE_INFO]:  Func:aliasr_get_config, Line:121, AccessKeyID = LTAIu7a3tu8FVWLh
+2019-03-25 14:38:58:564 [TRACE_INFO]:  Func:aliasr_get_config, Line:122, AccessKeySecret = yS4n8Tt2mRNdPHk4N4FsK3uL0Qq0hT
+2019-03-25 14:38:58:565 [TRACE_DEBUG]:  Func:ALIASR, Line:74, enter ALIASR::ALIASR()
+2019-03-25 14:38:58:567 [TRACE_DEBUG]:  Func:aliasr_generate_Token, Line:148, enter ALIASR::aliasr_generate_Token()
+2019-03-25 14:38:59:405 [TRACE_DEBUG]:  Func:ali_asr_thread, Line:355, enter ali_asr_thread
+2019-03-25 14:38:59:588 [TRACE_DEBUG]:  Func:recv_translate_start, Line:213, enter recv_translate_start
+2019-03-25 14:38:59:589 [TRACE_INFO]:  Func:recv_translate_start, Line:215, TaskId = 5423b05def69444283119268abdc7d02
+2019-03-25 14:42:47:994 [TRACE_INFO]:  Func:aliasr_get_config, Line:120, AppKey = jaKnIyQ2f69ZXxqI
+2019-03-25 14:42:47:997 [TRACE_INFO]:  Func:aliasr_get_config, Line:121, AccessKeyID = LTAIu7a3tu8FVWLh
+2019-03-25 14:42:47:999 [TRACE_INFO]:  Func:aliasr_get_config, Line:122, AccessKeySecret = yS4n8Tt2mRNdPHk4N4FsK3uL0Qq0hT
+2019-03-25 14:42:47:000 [TRACE_DEBUG]:  Func:ALIASR, Line:74, enter ALIASR::ALIASR()
+2019-03-25 14:42:48:001 [TRACE_DEBUG]:  Func:aliasr_generate_Token, Line:148, enter ALIASR::aliasr_generate_Token()
+2019-03-25 14:42:48:116 [TRACE_DEBUG]:  Func:ali_asr_thread, Line:355, enter ali_asr_thread
+2019-03-25 14:42:48:396 [TRACE_DEBUG]:  Func:recv_translate_start, Line:213, enter recv_translate_start
+2019-03-25 14:42:48:397 [TRACE_INFO]:  Func:recv_translate_start, Line:215, TaskId = ed97fb9da62a40f98545e80ba0bae21b
+2019-03-25 14:45:22:134 [TRACE_INFO]:  Func:aliasr_get_config, Line:120, AppKey = jaKnIyQ2f69ZXxqI
+2019-03-25 14:45:22:137 [TRACE_INFO]:  Func:aliasr_get_config, Line:121, AccessKeyID = LTAIu7a3tu8FVWLh
+2019-03-25 14:45:22:137 [TRACE_INFO]:  Func:aliasr_get_config, Line:122, AccessKeySecret = yS4n8Tt2mRNdPHk4N4FsK3uL0Qq0hT
+2019-03-25 14:45:22:138 [TRACE_DEBUG]:  Func:ALIASR, Line:74, enter ALIASR::ALIASR()
+2019-03-25 14:45:22:138 [TRACE_DEBUG]:  Func:aliasr_generate_Token, Line:147, enter ALIASR::aliasr_generate_Token()
+2019-03-25 14:45:22:413 [TRACE_DEBUG]:  Func:ali_asr_thread, Line:354, enter ali_asr_thread
+2019-03-25 14:45:22:550 [TRACE_DEBUG]:  Func:recv_translate_start, Line:212, enter recv_translate_start
+2019-03-25 14:45:22:551 [TRACE_INFO]:  Func:recv_translate_start, Line:214, TaskId = 4f34b3c18b074cc79b25ec3c1cf7e694
+2019-03-25 14:45:34:863 [TRACE_INFO]:  Func:aliasr_get_config, Line:120, AppKey = jaKnIyQ2f69ZXxqI
+2019-03-25 14:45:34:870 [TRACE_INFO]:  Func:aliasr_get_config, Line:121, AccessKeyID = LTAIu7a3tu8FVWLh
+2019-03-25 14:45:34:871 [TRACE_INFO]:  Func:aliasr_get_config, Line:122, AccessKeySecret = yS4n8Tt2mRNdPHk4N4FsK3uL0Qq0hT
+2019-03-25 14:45:34:872 [TRACE_DEBUG]:  Func:ALIASR, Line:74, enter ALIASR::ALIASR()
+2019-03-25 14:45:34:873 [TRACE_DEBUG]:  Func:aliasr_generate_Token, Line:147, enter ALIASR::aliasr_generate_Token()
+2019-03-25 14:45:34:949 [TRACE_DEBUG]:  Func:ali_asr_thread, Line:354, enter ali_asr_thread
+2019-03-25 14:45:35:229 [TRACE_DEBUG]:  Func:recv_translate_start, Line:212, enter recv_translate_start
+2019-03-25 14:45:35:230 [TRACE_INFO]:  Func:recv_translate_start, Line:214, TaskId = f06c016fb3dc4eff911cb4bdfbea6bdc
+2019-03-25 14:45:38:191 [TRACE_INFO]:  Func:aliasr_get_config, Line:120, AppKey = jaKnIyQ2f69ZXxqI
+2019-03-25 14:45:38:195 [TRACE_INFO]:  Func:aliasr_get_config, Line:121, AccessKeyID = LTAIu7a3tu8FVWLh
+2019-03-25 14:45:38:197 [TRACE_INFO]:  Func:aliasr_get_config, Line:122, AccessKeySecret = yS4n8Tt2mRNdPHk4N4FsK3uL0Qq0hT
+2019-03-25 14:45:38:200 [TRACE_DEBUG]:  Func:ALIASR, Line:74, enter ALIASR::ALIASR()
+2019-03-25 14:45:38:201 [TRACE_DEBUG]:  Func:aliasr_generate_Token, Line:147, enter ALIASR::aliasr_generate_Token()
+2019-03-25 14:45:38:269 [TRACE_DEBUG]:  Func:ali_asr_thread, Line:354, enter ali_asr_thread
+2019-03-25 14:45:38:400 [TRACE_DEBUG]:  Func:recv_translate_start, Line:212, enter recv_translate_start
+2019-03-25 14:45:38:401 [TRACE_INFO]:  Func:recv_translate_start, Line:214, TaskId = 36c2e7ebee6c415390033ec5135d4d07
+2019-03-25 14:48:16:578 [TRACE_INFO]:  Func:aliasr_get_config, Line:120, AppKey = jaKnIyQ2f69ZXxqI
+2019-03-25 14:48:16:582 [TRACE_INFO]:  Func:aliasr_get_config, Line:121, AccessKeyID = LTAIu7a3tu8FVWLh
+2019-03-25 14:48:16:583 [TRACE_INFO]:  Func:aliasr_get_config, Line:122, AccessKeySecret = yS4n8Tt2mRNdPHk4N4FsK3uL0Qq0hT
+2019-03-25 14:48:16:583 [TRACE_DEBUG]:  Func:ALIASR, Line:74, enter ALIASR::ALIASR()
+2019-03-25 14:48:16:585 [TRACE_DEBUG]:  Func:aliasr_generate_Token, Line:147, enter ALIASR::aliasr_generate_Token()
+2019-03-25 14:48:16:687 [TRACE_DEBUG]:  Func:ali_asr_thread, Line:354, enter ali_asr_thread
+2019-03-25 14:48:16:859 [TRACE_DEBUG]:  Func:recv_translate_start, Line:212, enter recv_translate_start
+2019-03-25 14:48:16:860 [TRACE_INFO]:  Func:recv_translate_start, Line:214, TaskId = eaa2375854544493a473cddfb4fadc32
+2019-03-25 14:52:49:276 [TRACE_INFO]:  Func:aliasr_get_config, Line:120, AppKey = jaKnIyQ2f69ZXxqI
+2019-03-25 14:52:49:280 [TRACE_INFO]:  Func:aliasr_get_config, Line:121, AccessKeyID = LTAIu7a3tu8FVWLh
+2019-03-25 14:52:49:282 [TRACE_INFO]:  Func:aliasr_get_config, Line:122, AccessKeySecret = yS4n8Tt2mRNdPHk4N4FsK3uL0Qq0hT
+2019-03-25 14:52:49:284 [TRACE_DEBUG]:  Func:ALIASR, Line:74, enter ALIASR::ALIASR()
+2019-03-25 14:52:49:284 [TRACE_DEBUG]:  Func:aliasr_generate_Token, Line:147, enter ALIASR::aliasr_generate_Token()
+2019-03-25 14:52:49:414 [TRACE_DEBUG]:  Func:ali_asr_thread, Line:354, enter ali_asr_thread
+2019-03-25 14:52:49:562 [TRACE_DEBUG]:  Func:recv_translate_start, Line:212, enter recv_translate_start
+2019-03-25 14:52:49:563 [TRACE_INFO]:  Func:recv_translate_start, Line:214, TaskId = d7dc19e80adc4980a085a3bdebb8ebd0

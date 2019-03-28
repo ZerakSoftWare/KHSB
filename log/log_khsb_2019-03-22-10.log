@@ -1,0 +1,68 @@
+2019-03-22 10:20:46:058 [TRACE_INFO]:  Func:aliasr_get_config, Line:97, AppKey =  jaKnIyQ2f69ZXxqI
+2019-03-22 10:20:46:062 [TRACE_INFO]:  Func:aliasr_get_config, Line:98, AccessKeyID =  yS4n8Tt2mRNdPHk4N4FsK3uL0Qq0hT
+2019-03-22 10:20:46:062 [TRACE_INFO]:  Func:aliasr_get_config, Line:99, AccessKeySecret =  yS4n8Tt2mRNdPHk4N4FsK3uL0Qq0hT
+2019-03-22 10:20:46:086 [TRACE_INFO]:  Func:testesl, Line:93, Connect Success, 0
+2019-03-22 10:22:46:081 [TRACE_INFO]:  Func:aliasr_get_config, Line:97, AppKey =  jaKnIyQ2f69ZXxqI
+2019-03-22 10:22:46:082 [TRACE_INFO]:  Func:aliasr_get_config, Line:98, AccessKeyID =  yS4n8Tt2mRNdPHk4N4FsK3uL0Qq0hT
+2019-03-22 10:22:46:083 [TRACE_INFO]:  Func:aliasr_get_config, Line:99, AccessKeySecret =  yS4n8Tt2mRNdPHk4N4FsK3uL0Qq0hT
+2019-03-22 10:22:46:088 [TRACE_INFO]:  Func:testesl, Line:93, Connect Success, 0
+2019-03-22 10:22:53:939 [TRACE_INFO]:  Func:aliasr_get_config, Line:98, AppKey =  jaKnIyQ2f69ZXxqI
+2019-03-22 10:22:53:940 [TRACE_INFO]:  Func:aliasr_get_config, Line:99, AccessKeyID =  yS4n8Tt2mRNdPHk4N4FsK3uL0Qq0hT
+2019-03-22 10:22:53:940 [TRACE_INFO]:  Func:aliasr_get_config, Line:100, AccessKeySecret =  yS4n8Tt2mRNdPHk4N4FsK3uL0Qq0hT
+2019-03-22 10:22:53:943 [TRACE_INFO]:  Func:testesl, Line:93, Connect Success, 0
+2019-03-22 10:26:12:868 [TRACE_INFO]:  Func:aliasr_get_config, Line:98, AppKey =  jaKnIyQ2f69ZXxqI
+2019-03-22 10:26:12:870 [TRACE_INFO]:  Func:aliasr_get_config, Line:99, AccessKeyID =  yS4n8Tt2mRNdPHk4N4FsK3uL0Qq0hT
+2019-03-22 10:26:12:870 [TRACE_INFO]:  Func:aliasr_get_config, Line:100, AccessKeySecret =  yS4n8Tt2mRNdPHk4N4FsK3uL0Qq0hT
+2019-03-22 10:26:12:870 [TRACE_DEBUG]:  Func:generateToken, Line:109, enter ALIASR::generateToken()
+2019-03-22 10:26:12:871 [TRACE_ERROR]:  Func:generateToken, Line:117, applyNlsToken failure: AccessKeySecret is empty.
+2019-03-22 10:26:12:877 [TRACE_INFO]:  Func:testesl, Line:93, Connect Success, 0
+2019-03-22 10:29:45:347 [TRACE_INFO]:  Func:aliasr_get_config, Line:98, KEY_ACCESS_KEY_ID =  LTAIu7a3tu8FVWLh
+2019-03-22 10:29:45:349 [TRACE_INFO]:  Func:aliasr_get_config, Line:99, AppKey =  jaKnIyQ2f69ZXxqI
+2019-03-22 10:29:45:349 [TRACE_INFO]:  Func:aliasr_get_config, Line:100, AccessKeyID =  yS4n8Tt2mRNdPHk4N4FsK3uL0Qq0hT
+2019-03-22 10:29:45:349 [TRACE_INFO]:  Func:aliasr_get_config, Line:101, AccessKeySecret =  yS4n8Tt2mRNdPHk4N4FsK3uL0Qq0hT
+2019-03-22 10:29:45:349 [TRACE_DEBUG]:  Func:generateToken, Line:110, enter ALIASR::generateToken()
+2019-03-22 10:29:45:350 [TRACE_ERROR]:  Func:generateToken, Line:118, applyNlsToken failure: AccessKeySecret is empty.
+2019-03-22 10:29:45:354 [TRACE_INFO]:  Func:testesl, Line:93, Connect Success, 0
+2019-03-22 10:30:53:243 [TRACE_INFO]:  Func:aliasr_get_config, Line:98, KEY_ACCESS_KEY_ID =  LTAIu7a3tu8FVWLh
+2019-03-22 10:30:53:245 [TRACE_INFO]:  Func:aliasr_get_config, Line:99, AppKey =  jaKnIyQ2f69ZXxqI
+2019-03-22 10:30:53:245 [TRACE_INFO]:  Func:aliasr_get_config, Line:100, AccessKeyID =  yS4n8Tt2mRNdPHk4N4FsK3uL0Qq0hT
+2019-03-22 10:30:53:245 [TRACE_INFO]:  Func:aliasr_get_config, Line:101, AccessKeySecret =  yS4n8Tt2mRNdPHk4N4FsK3uL0Qq0hT
+2019-03-22 10:30:53:246 [TRACE_DEBUG]:  Func:generateToken, Line:110, enter ALIASR::generateToken()
+2019-03-22 10:30:53:246 [TRACE_ERROR]:  Func:generateToken, Line:118, applyNlsToken failure: AccessKeySecret is empty.
+2019-03-22 10:30:53:256 [TRACE_INFO]:  Func:testesl, Line:93, Connect Success, 0
+2019-03-22 10:30:56:237 [TRACE_INFO]:  Func:aliasr_get_config, Line:98, KEY_ACCESS_KEY_ID =  LTAIu7a3tu8FVWLh
+2019-03-22 10:30:56:238 [TRACE_INFO]:  Func:aliasr_get_config, Line:99, AppKey =  jaKnIyQ2f69ZXxqI
+2019-03-22 10:30:56:239 [TRACE_INFO]:  Func:aliasr_get_config, Line:100, AccessKeyID =  LTAIu7a3tu8FVWLh
+2019-03-22 10:30:56:239 [TRACE_INFO]:  Func:aliasr_get_config, Line:101, AccessKeySecret =  yS4n8Tt2mRNdPHk4N4FsK3uL0Qq0hT
+2019-03-22 10:30:56:239 [TRACE_DEBUG]:  Func:generateToken, Line:110, enter ALIASR::generateToken()
+2019-03-22 10:30:56:239 [TRACE_ERROR]:  Func:generateToken, Line:118, applyNlsToken failure: AccessKeySecret is empty.
+2019-03-22 10:30:56:244 [TRACE_INFO]:  Func:testesl, Line:93, Connect Success, 0
+2019-03-22 10:31:28:265 [TRACE_INFO]:  Func:aliasr_get_config, Line:98, KEY_ACCESS_KEY_ID =  LTAIu7a3tu8FVWLh
+2019-03-22 10:31:28:266 [TRACE_INFO]:  Func:aliasr_get_config, Line:99, AppKey =  jaKnIyQ2f69ZXxqI
+2019-03-22 10:31:28:266 [TRACE_INFO]:  Func:aliasr_get_config, Line:100, AccessKeyID =  LTAIu7a3tu8FVWLh
+2019-03-22 10:31:28:267 [TRACE_INFO]:  Func:aliasr_get_config, Line:101, AccessKeySecret =  yS4n8Tt2mRNdPHk4N4FsK3uL0Qq0hT
+2019-03-22 10:31:28:267 [TRACE_DEBUG]:  Func:generateToken, Line:110, enter ALIASR::generateToken()
+2019-03-22 10:31:28:597 [TRACE_ERROR]:  Func:generateToken, Line:118, applyNlsToken failure: Specified signature is not matched with our calculation. server string to sign is:POST
+application/json
+1B2M2Y8AsgTpgAmY7PhCfg==
+application/octet-stream;charset=utf-8
+Fri, 22 Mar 2019 02:31:28 GMT
+x-acs-signature-method:HMAC-SHA1
+x-acs-signature-version:1.0
+x-acs-version:2018-05-18
+/pop/2018-05-18/tokens
+2019-03-22 10:31:28:600 [TRACE_INFO]:  Func:testesl, Line:93, Connect Success, 0
+2019-03-22 10:33:12:570 [TRACE_INFO]:  Func:aliasr_get_config, Line:98, AppKey =  jaKnIyQ2f69ZXxqI
+2019-03-22 10:33:12:571 [TRACE_INFO]:  Func:aliasr_get_config, Line:99, AccessKeyID =  LTAIu7a3tu8FVWLh
+2019-03-22 10:33:12:572 [TRACE_INFO]:  Func:aliasr_get_config, Line:100, AccessKeySecret =  yS4n8Tt2mRNdPHk4N4FsK3uL0Qq0hT
+2019-03-22 10:33:12:572 [TRACE_DEBUG]:  Func:generateToken, Line:109, enter ALIASR::generateToken()
+2019-03-22 10:33:12:714 [TRACE_ERROR]:  Func:generateToken, Line:117, applyNlsToken failure: Specified signature is not matched with our calculation. server string to sign is:POST
+application/json
+1B2M2Y8AsgTpgAmY7PhCfg==
+application/octet-stream;charset=utf-8
+Fri, 22 Mar 2019 02:33:12 GMT
+x-acs-signature-method:HMAC-SHA1
+x-acs-signature-version:1.0
+x-acs-version:2018-05-18
+/pop/2018-05-18/tokens
+2019-03-22 10:33:12:717 [TRACE_INFO]:  Func:testesl, Line:93, Connect Success, 0

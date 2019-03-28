@@ -1,0 +1,165 @@
+2019-03-27 16:16:52:604 [TRACE_INFO]:  Func:aliasr_get_config, Line:124, AppKey = jaKnIyQ2f69ZXxqI
+2019-03-27 16:16:52:621 [TRACE_INFO]:  Func:aliasr_get_config, Line:125, AccessKeyID = LTAIu7a3tu8FVWLh
+2019-03-27 16:16:52:622 [TRACE_INFO]:  Func:aliasr_get_config, Line:126, AccessKeySecret = yS4n8Tt2mRNdPHk4N4FsK3uL0Qq0hT
+2019-03-27 16:16:52:635 [TRACE_INFO]:  Func:testesl, Line:129, Connect Success, 0
+2019-03-27 16:16:52:638 [TRACE_INFO]:  Func:asr_cntl_tcp_thread, Line:22, pAddress = 192.168.58.129
+2019-03-27 16:16:52:641 [TRACE_INFO]:  Func:asr_cntl_tcp_thread, Line:26, pAddress = 192.168.58.129, iPort = 10277
+2019-03-27 16:17:10:536 [TRACE_INFO]:  Func:aliasr_get_config, Line:124, AppKey = jaKnIyQ2f69ZXxqI
+2019-03-27 16:17:10:543 [TRACE_INFO]:  Func:aliasr_get_config, Line:125, AccessKeyID = LTAIu7a3tu8FVWLh
+2019-03-27 16:17:10:545 [TRACE_INFO]:  Func:aliasr_get_config, Line:126, AccessKeySecret = yS4n8Tt2mRNdPHk4N4FsK3uL0Qq0hT
+2019-03-27 16:17:10:566 [TRACE_INFO]:  Func:testesl, Line:129, Connect Success, 0
+2019-03-27 16:17:10:570 [TRACE_INFO]:  Func:asr_cntl_tcp_thread, Line:22, pAddress = 192.168.58.129
+2019-03-27 16:17:10:573 [TRACE_INFO]:  Func:asr_cntl_tcp_thread, Line:26, pAddress = 192.168.58.129, iPort = 10277
+2019-03-27 16:18:09:629 [TRACE_INFO]:  Func:aliasr_get_config, Line:124, AppKey = jaKnIyQ2f69ZXxqI
+2019-03-27 16:18:09:637 [TRACE_INFO]:  Func:aliasr_get_config, Line:125, AccessKeyID = LTAIu7a3tu8FVWLh
+2019-03-27 16:18:09:638 [TRACE_INFO]:  Func:aliasr_get_config, Line:126, AccessKeySecret = yS4n8Tt2mRNdPHk4N4FsK3uL0Qq0hT
+2019-03-27 16:18:09:640 [TRACE_INFO]:  Func:asr_cntl_tcp_thread, Line:22, pAddress = 192.168.58.129
+2019-03-27 16:18:09:642 [TRACE_INFO]:  Func:asr_cntl_tcp_thread, Line:26, pAddress = 192.168.58.129, iPort = 10277
+2019-03-27 16:18:11:064 [TRACE_INFO]:  Func:aliasr_get_config, Line:124, AppKey = jaKnIyQ2f69ZXxqI
+2019-03-27 16:18:11:704 [TRACE_INFO]:  Func:aliasr_get_config, Line:125, AccessKeyID = LTAIu7a3tu8FVWLh
+2019-03-27 16:18:11:705 [TRACE_INFO]:  Func:aliasr_get_config, Line:126, AccessKeySecret = yS4n8Tt2mRNdPHk4N4FsK3uL0Qq0hT
+2019-03-27 16:18:11:707 [TRACE_INFO]:  Func:asr_cntl_tcp_thread, Line:22, pAddress = 192.168.58.129
+2019-03-27 16:18:11:712 [TRACE_INFO]:  Func:asr_cntl_tcp_thread, Line:26, pAddress = 192.168.58.129, iPort = 10277
+2019-03-27 16:18:47:827 [TRACE_INFO]:  Func:aliasr_get_config, Line:124, AppKey = jaKnIyQ2f69ZXxqI
+2019-03-27 16:18:47:833 [TRACE_INFO]:  Func:aliasr_get_config, Line:125, AccessKeyID = LTAIu7a3tu8FVWLh
+2019-03-27 16:18:47:834 [TRACE_INFO]:  Func:aliasr_get_config, Line:126, AccessKeySecret = yS4n8Tt2mRNdPHk4N4FsK3uL0Qq0hT
+2019-03-27 16:18:47:836 [TRACE_INFO]:  Func:asr_cntl_tcp_thread, Line:22, pAddress = 192.168.58.129
+2019-03-27 16:18:47:838 [TRACE_INFO]:  Func:asr_cntl_tcp_thread, Line:26, pAddress = 192.168.58.129, iPort = 10277
+2019-03-27 16:18:50:817 [TRACE_FLOW]:  Func:asr_malloc_cntl_info, Line:146, enter asr_malloc_cntl_info()
+2019-03-27 16:18:50:821 [TRACE_INFO]:  Func:asr_malloc_cntl_info, Line:162, malloc g_AsrInfoIndex = 2
+2019-03-27 16:18:50:821 [TRACE_INFO]:  Func:asr_cntl_process, Line:85, asr_malloc_cntl_info success! pAsrRequest->uuid = f3ae5104-5068-11e9-bc77-6ffa244312f2, ulAsrInfoIndex = 2
+2019-03-27 16:18:50:821 [TRACE_DEBUG]:  Func:ALIASR, Line:78, enter ALIASR::ALIASR()
+2019-03-27 16:18:50:821 [TRACE_DEBUG]:  Func:aliasr_generate_Token, Line:165, enter ALIASR::aliasr_generate_Token()
+2019-03-27 16:18:50:924 [TRACE_DEBUG]:  Func:ali_asr_thread, Line:382, enter ali_asr_thread
+2019-03-27 16:18:51:060 [TRACE_INFO]:  Func:onTranscriptionStarted, Line:259, pAsrObj->strTaskId = 74095d00480e4a438ca900a51b389f70, pAsrObj->ulAsrInfoNumber = 2
+2019-03-27 16:20:28:372 [TRACE_INFO]:  Func:aliasr_get_config, Line:124, AppKey = jaKnIyQ2f69ZXxqI
+2019-03-27 16:20:28:375 [TRACE_INFO]:  Func:aliasr_get_config, Line:125, AccessKeyID = LTAIu7a3tu8FVWLh
+2019-03-27 16:20:28:375 [TRACE_INFO]:  Func:aliasr_get_config, Line:126, AccessKeySecret = yS4n8Tt2mRNdPHk4N4FsK3uL0Qq0hT
+2019-03-27 16:20:28:378 [TRACE_INFO]:  Func:asr_cntl_tcp_thread, Line:22, pAddress = 192.168.58.129
+2019-03-27 16:20:28:383 [TRACE_INFO]:  Func:asr_cntl_tcp_thread, Line:26, pAddress = 192.168.58.129, iPort = 10277
+2019-03-27 16:20:45:013 [TRACE_FLOW]:  Func:asr_malloc_cntl_info, Line:146, enter asr_malloc_cntl_info()
+2019-03-27 16:20:45:014 [TRACE_INFO]:  Func:asr_malloc_cntl_info, Line:162, malloc g_AsrInfoIndex = 1
+2019-03-27 16:20:45:015 [TRACE_INFO]:  Func:asr_cntl_process, Line:85, asr_malloc_cntl_info success! pAsrRequest->uuid = 37bf4dc6-5069-11e9-8740-c950342718f2, ulAsrInfoIndex = 1
+2019-03-27 16:20:45:016 [TRACE_DEBUG]:  Func:ALIASR, Line:78, enter ALIASR::ALIASR()
+2019-03-27 16:20:45:018 [TRACE_DEBUG]:  Func:aliasr_generate_Token, Line:165, enter ALIASR::aliasr_generate_Token()
+2019-03-27 16:20:45:220 [TRACE_DEBUG]:  Func:ali_asr_thread, Line:422, enter ali_asr_thread
+2019-03-27 16:20:45:386 [TRACE_INFO]:  Func:onTranscriptionStarted, Line:303, pAsrObj->strTaskId = ab781a05433c41df80abb4fb7aa04d09, pAsrObj->ulAsrInfoNumber = 1
+2019-03-27 16:21:54:183 [TRACE_INFO]:  Func:aliasr_get_config, Line:124, AppKey = jaKnIyQ2f69ZXxqI
+2019-03-27 16:21:54:189 [TRACE_INFO]:  Func:aliasr_get_config, Line:125, AccessKeyID = LTAIu7a3tu8FVWLh
+2019-03-27 16:21:54:190 [TRACE_INFO]:  Func:aliasr_get_config, Line:126, AccessKeySecret = yS4n8Tt2mRNdPHk4N4FsK3uL0Qq0hT
+2019-03-27 16:21:54:192 [TRACE_INFO]:  Func:asr_cntl_tcp_thread, Line:22, pAddress = 192.168.58.129
+2019-03-27 16:21:54:199 [TRACE_INFO]:  Func:asr_cntl_tcp_thread, Line:26, pAddress = 192.168.58.129, iPort = 10277
+2019-03-27 16:21:54:296 [TRACE_FLOW]:  Func:asr_malloc_cntl_info, Line:146, enter asr_malloc_cntl_info()
+2019-03-27 16:21:54:296 [TRACE_INFO]:  Func:asr_malloc_cntl_info, Line:162, malloc g_AsrInfoIndex = 1
+2019-03-27 16:21:54:297 [TRACE_INFO]:  Func:asr_cntl_process, Line:85, asr_malloc_cntl_info success! pAsrRequest->uuid = 37bf4dc6-5069-11e9-8740-c950342718f2, ulAsrInfoIndex = 1
+2019-03-27 16:21:54:298 [TRACE_DEBUG]:  Func:ALIASR, Line:78, enter ALIASR::ALIASR()
+2019-03-27 16:21:54:298 [TRACE_DEBUG]:  Func:aliasr_generate_Token, Line:165, enter ALIASR::aliasr_generate_Token()
+2019-03-27 16:21:54:379 [TRACE_DEBUG]:  Func:ali_asr_thread, Line:422, enter ali_asr_thread
+2019-03-27 16:21:54:523 [TRACE_INFO]:  Func:onTranscriptionStarted, Line:303, pAsrObj->strTaskId = 87b244a501d74074a67247adc457537e, pAsrObj->ulAsrInfoNumber = 1
+2019-03-27 16:22:03:509 [TRACE_FLOW]:  Func:asr_malloc_cntl_info, Line:146, enter asr_malloc_cntl_info()
+2019-03-27 16:22:03:509 [TRACE_INFO]:  Func:asr_malloc_cntl_info, Line:162, malloc g_AsrInfoIndex = 2
+2019-03-27 16:22:03:510 [TRACE_INFO]:  Func:asr_cntl_process, Line:85, asr_malloc_cntl_info success! pAsrRequest->uuid = 6688a6fc-5069-11e9-874b-c950342718f2, ulAsrInfoIndex = 2
+2019-03-27 16:22:03:511 [TRACE_DEBUG]:  Func:ALIASR, Line:78, enter ALIASR::ALIASR()
+2019-03-27 16:22:03:512 [TRACE_DEBUG]:  Func:aliasr_generate_Token, Line:165, enter ALIASR::aliasr_generate_Token()
+2019-03-27 16:22:03:609 [TRACE_DEBUG]:  Func:ali_asr_thread, Line:422, enter ali_asr_thread
+2019-03-27 16:22:03:780 [TRACE_INFO]:  Func:onTranscriptionStarted, Line:303, pAsrObj->strTaskId = d853569c4bad4d89884c6f003b632925, pAsrObj->ulAsrInfoNumber = 2
+2019-03-27 16:23:01:433 [TRACE_INFO]:  Func:aliasr_get_config, Line:124, AppKey = jaKnIyQ2f69ZXxqI
+2019-03-27 16:23:01:436 [TRACE_INFO]:  Func:aliasr_get_config, Line:125, AccessKeyID = LTAIu7a3tu8FVWLh
+2019-03-27 16:23:01:436 [TRACE_INFO]:  Func:aliasr_get_config, Line:126, AccessKeySecret = yS4n8Tt2mRNdPHk4N4FsK3uL0Qq0hT
+2019-03-27 16:23:01:438 [TRACE_INFO]:  Func:asr_cntl_tcp_thread, Line:22, pAddress = 192.168.58.129
+2019-03-27 16:23:01:440 [TRACE_INFO]:  Func:asr_cntl_tcp_thread, Line:26, pAddress = 192.168.58.129, iPort = 10277
+2019-03-27 16:23:07:015 [TRACE_INFO]:  Func:aliasr_get_config, Line:124, AppKey = jaKnIyQ2f69ZXxqI
+2019-03-27 16:23:07:018 [TRACE_INFO]:  Func:aliasr_get_config, Line:125, AccessKeyID = LTAIu7a3tu8FVWLh
+2019-03-27 16:23:07:018 [TRACE_INFO]:  Func:aliasr_get_config, Line:126, AccessKeySecret = yS4n8Tt2mRNdPHk4N4FsK3uL0Qq0hT
+2019-03-27 16:23:07:020 [TRACE_INFO]:  Func:asr_cntl_tcp_thread, Line:22, pAddress = 192.168.58.129
+2019-03-27 16:23:07:022 [TRACE_INFO]:  Func:asr_cntl_tcp_thread, Line:26, pAddress = 192.168.58.129, iPort = 10277
+2019-03-27 16:23:13:871 [TRACE_INFO]:  Func:aliasr_get_config, Line:124, AppKey = jaKnIyQ2f69ZXxqI
+2019-03-27 16:23:13:874 [TRACE_INFO]:  Func:aliasr_get_config, Line:125, AccessKeyID = LTAIu7a3tu8FVWLh
+2019-03-27 16:23:13:875 [TRACE_INFO]:  Func:aliasr_get_config, Line:126, AccessKeySecret = yS4n8Tt2mRNdPHk4N4FsK3uL0Qq0hT
+2019-03-27 16:23:13:879 [TRACE_INFO]:  Func:asr_cntl_tcp_thread, Line:22, pAddress = 192.168.58.129
+2019-03-27 16:23:13:882 [TRACE_INFO]:  Func:asr_cntl_tcp_thread, Line:26, pAddress = 192.168.58.129, iPort = 10277
+2019-03-27 16:23:54:136 [TRACE_INFO]:  Func:aliasr_get_config, Line:124, AppKey = jaKnIyQ2f69ZXxqI
+2019-03-27 16:23:54:139 [TRACE_INFO]:  Func:aliasr_get_config, Line:125, AccessKeyID = LTAIu7a3tu8FVWLh
+2019-03-27 16:23:54:140 [TRACE_INFO]:  Func:aliasr_get_config, Line:126, AccessKeySecret = yS4n8Tt2mRNdPHk4N4FsK3uL0Qq0hT
+2019-03-27 16:23:54:142 [TRACE_INFO]:  Func:asr_cntl_tcp_thread, Line:22, pAddress = 192.168.58.129
+2019-03-27 16:23:54:144 [TRACE_INFO]:  Func:asr_cntl_tcp_thread, Line:26, pAddress = 192.168.58.129, iPort = 10277
+2019-03-27 16:24:14:457 [TRACE_INFO]:  Func:aliasr_get_config, Line:124, AppKey = jaKnIyQ2f69ZXxqI
+2019-03-27 16:24:14:459 [TRACE_INFO]:  Func:aliasr_get_config, Line:125, AccessKeyID = LTAIu7a3tu8FVWLh
+2019-03-27 16:24:14:460 [TRACE_INFO]:  Func:aliasr_get_config, Line:126, AccessKeySecret = yS4n8Tt2mRNdPHk4N4FsK3uL0Qq0hT
+2019-03-27 16:24:14:463 [TRACE_INFO]:  Func:asr_cntl_tcp_thread, Line:22, pAddress = 192.168.58.129
+2019-03-27 16:24:14:466 [TRACE_INFO]:  Func:asr_cntl_tcp_thread, Line:26, pAddress = 192.168.58.129, iPort = 10277
+2019-03-27 16:24:19:155 [TRACE_FLOW]:  Func:asr_malloc_cntl_info, Line:146, enter asr_malloc_cntl_info()
+2019-03-27 16:24:19:155 [TRACE_INFO]:  Func:asr_malloc_cntl_info, Line:162, malloc g_AsrInfoIndex = 1
+2019-03-27 16:24:19:156 [TRACE_INFO]:  Func:asr_cntl_process, Line:85, asr_malloc_cntl_info success! pAsrRequest->uuid = b76366f2-5069-11e9-8756-c950342718f2, ulAsrInfoIndex = 1
+2019-03-27 16:24:19:156 [TRACE_DEBUG]:  Func:ALIASR, Line:78, enter ALIASR::ALIASR()
+2019-03-27 16:24:19:156 [TRACE_DEBUG]:  Func:aliasr_generate_Token, Line:165, enter ALIASR::aliasr_generate_Token()
+2019-03-27 16:24:19:240 [TRACE_DEBUG]:  Func:ali_asr_thread, Line:422, enter ali_asr_thread
+2019-03-27 16:24:19:382 [TRACE_INFO]:  Func:onTranscriptionStarted, Line:303, pAsrObj->strTaskId = 0c9bd8e7800c4a88bc9bd73f63920ed7, pAsrObj->ulAsrInfoNumber = 1
+2019-03-27 16:54:27:219 [TRACE_INFO]:  Func:aliasr_get_config, Line:126, AppKey = jaKnIyQ2f69ZXxqI
+2019-03-27 16:54:27:223 [TRACE_INFO]:  Func:aliasr_get_config, Line:127, AccessKeyID = LTAIu7a3tu8FVWLh
+2019-03-27 16:54:27:223 [TRACE_INFO]:  Func:aliasr_get_config, Line:128, AccessKeySecret = yS4n8Tt2mRNdPHk4N4FsK3uL0Qq0hT
+2019-03-27 16:54:27:231 [TRACE_INFO]:  Func:asr_cntl_tcp_thread, Line:26, pAddress = 192.168.58.129, iPort = 10277
+2019-03-27 16:54:27:751 [TRACE_FLOW]:  Func:asr_malloc_cntl_info, Line:149, enter asr_malloc_cntl_info()
+2019-03-27 16:54:27:752 [TRACE_INFO]:  Func:asr_malloc_cntl_info, Line:165, malloc g_AsrInfoIndex = 1
+2019-03-27 16:54:27:752 [TRACE_INFO]:  Func:asr_cntl_process, Line:85, asr_malloc_cntl_info success! pAsrRequest->uuid = b76366f2-5069-11e9-8756-c950342718f2, ulAsrInfoIndex = 1
+2019-03-27 16:54:27:753 [TRACE_DEBUG]:  Func:ALIASR, Line:80, enter ALIASR::ALIASR()
+2019-03-27 16:54:27:754 [TRACE_DEBUG]:  Func:aliasr_generate_Token, Line:167, enter ALIASR::aliasr_generate_Token()
+2019-03-27 16:54:27:879 [TRACE_DEBUG]:  Func:ali_asr_thread, Line:467, enter ali_asr_thread
+2019-03-27 16:54:28:012 [TRACE_INFO]:  Func:onTranscriptionStarted, Line:348, pAsrObj->strTaskId = 1ce4c3750a4647ac93b701c13c1523b4, pAsrObj->ulAsrInfoNumber = 1
+2019-03-27 16:54:38:191 [TRACE_FLOW]:  Func:asr_malloc_cntl_info, Line:149, enter asr_malloc_cntl_info()
+2019-03-27 16:54:38:192 [TRACE_INFO]:  Func:asr_malloc_cntl_info, Line:165, malloc g_AsrInfoIndex = 2
+2019-03-27 16:54:38:194 [TRACE_INFO]:  Func:asr_cntl_process, Line:85, asr_malloc_cntl_info success! pAsrRequest->uuid = f39d7668-506d-11e9-8762-c950342718f2, ulAsrInfoIndex = 2
+2019-03-27 16:54:38:195 [TRACE_DEBUG]:  Func:ALIASR, Line:80, enter ALIASR::ALIASR()
+2019-03-27 16:54:38:195 [TRACE_DEBUG]:  Func:aliasr_generate_Token, Line:167, enter ALIASR::aliasr_generate_Token()
+2019-03-27 16:54:38:266 [TRACE_DEBUG]:  Func:ali_asr_thread, Line:467, enter ali_asr_thread
+2019-03-27 16:54:38:406 [TRACE_INFO]:  Func:onTranscriptionStarted, Line:348, pAsrObj->strTaskId = 4d4969f2c4b345efb649ba3d179fad50, pAsrObj->ulAsrInfoNumber = 2
+2019-03-27 16:54:51:598 [TRACE_FLOW]:  Func:aliasr_send_stop_asr_request, Line:259, enter aliasr_send_stop_asr_request()
+2019-03-27 16:54:52:685 [TRACE_FLOW]:  Func:aliasr_send_stop_asr_request, Line:259, enter aliasr_send_stop_asr_request()
+2019-03-27 16:56:23:304 [TRACE_FLOW]:  Func:asr_malloc_cntl_info, Line:149, enter asr_malloc_cntl_info()
+2019-03-27 16:56:23:304 [TRACE_INFO]:  Func:asr_malloc_cntl_info, Line:165, malloc g_AsrInfoIndex = 3
+2019-03-27 16:56:23:305 [TRACE_INFO]:  Func:asr_cntl_process, Line:85, asr_malloc_cntl_info success! pAsrRequest->uuid = 3244e39c-506e-11e9-b1c9-a92f5541c242, ulAsrInfoIndex = 3
+2019-03-27 16:56:23:305 [TRACE_DEBUG]:  Func:ALIASR, Line:80, enter ALIASR::ALIASR()
+2019-03-27 16:56:23:305 [TRACE_DEBUG]:  Func:aliasr_generate_Token, Line:167, enter ALIASR::aliasr_generate_Token()
+2019-03-27 16:56:23:396 [TRACE_DEBUG]:  Func:ali_asr_thread, Line:467, enter ali_asr_thread
+2019-03-27 16:56:23:529 [TRACE_INFO]:  Func:onTranscriptionStarted, Line:348, pAsrObj->strTaskId = 3203791f4a414412a723e5ee273f4cbe, pAsrObj->ulAsrInfoNumber = 3
+2019-03-27 16:56:29:731 [TRACE_FLOW]:  Func:aliasr_send_stop_asr_request, Line:259, enter aliasr_send_stop_asr_request()
+2019-03-27 16:58:10:276 [TRACE_INFO]:  Func:aliasr_get_config, Line:126, AppKey = jaKnIyQ2f69ZXxqI
+2019-03-27 16:58:10:280 [TRACE_INFO]:  Func:aliasr_get_config, Line:127, AccessKeyID = LTAIu7a3tu8FVWLh
+2019-03-27 16:58:10:282 [TRACE_INFO]:  Func:aliasr_get_config, Line:128, AccessKeySecret = yS4n8Tt2mRNdPHk4N4FsK3uL0Qq0hT
+2019-03-27 16:58:10:288 [TRACE_INFO]:  Func:asr_cntl_tcp_thread, Line:26, pAddress = 192.168.58.129, iPort = 10277
+2019-03-27 16:58:31:828 [TRACE_INFO]:  Func:aliasr_get_config, Line:126, AppKey = jaKnIyQ2f69ZXxqI
+2019-03-27 16:58:31:832 [TRACE_INFO]:  Func:aliasr_get_config, Line:127, AccessKeyID = LTAIu7a3tu8FVWLh
+2019-03-27 16:58:31:833 [TRACE_INFO]:  Func:aliasr_get_config, Line:128, AccessKeySecret = yS4n8Tt2mRNdPHk4N4FsK3uL0Qq0hT
+2019-03-27 16:58:31:839 [TRACE_INFO]:  Func:asr_cntl_tcp_thread, Line:26, pAddress = 192.168.58.129, iPort = 10277
+2019-03-27 16:58:39:187 [TRACE_INFO]:  Func:aliasr_get_config, Line:126, AppKey = jaKnIyQ2f69ZXxqI
+2019-03-27 16:58:39:189 [TRACE_INFO]:  Func:aliasr_get_config, Line:127, AccessKeyID = LTAIu7a3tu8FVWLh
+2019-03-27 16:58:39:190 [TRACE_INFO]:  Func:aliasr_get_config, Line:128, AccessKeySecret = yS4n8Tt2mRNdPHk4N4FsK3uL0Qq0hT
+2019-03-27 16:58:39:196 [TRACE_INFO]:  Func:asr_cntl_tcp_thread, Line:26, pAddress = 192.168.58.129, iPort = 10277
+2019-03-27 16:58:39:801 [TRACE_INFO]:  Func:aliasr_get_config, Line:126, AppKey = jaKnIyQ2f69ZXxqI
+2019-03-27 16:58:39:804 [TRACE_INFO]:  Func:aliasr_get_config, Line:127, AccessKeyID = LTAIu7a3tu8FVWLh
+2019-03-27 16:58:39:804 [TRACE_INFO]:  Func:aliasr_get_config, Line:128, AccessKeySecret = yS4n8Tt2mRNdPHk4N4FsK3uL0Qq0hT
+2019-03-27 16:58:39:809 [TRACE_INFO]:  Func:asr_cntl_tcp_thread, Line:26, pAddress = 192.168.58.129, iPort = 10277
+2019-03-27 16:58:40:226 [TRACE_INFO]:  Func:aliasr_get_config, Line:126, AppKey = jaKnIyQ2f69ZXxqI
+2019-03-27 16:58:40:229 [TRACE_INFO]:  Func:aliasr_get_config, Line:127, AccessKeyID = LTAIu7a3tu8FVWLh
+2019-03-27 16:58:40:230 [TRACE_INFO]:  Func:aliasr_get_config, Line:128, AccessKeySecret = yS4n8Tt2mRNdPHk4N4FsK3uL0Qq0hT
+2019-03-27 16:58:40:234 [TRACE_INFO]:  Func:asr_cntl_tcp_thread, Line:26, pAddress = 192.168.58.129, iPort = 10277
+2019-03-27 16:58:40:597 [TRACE_INFO]:  Func:aliasr_get_config, Line:126, AppKey = jaKnIyQ2f69ZXxqI
+2019-03-27 16:58:40:600 [TRACE_INFO]:  Func:aliasr_get_config, Line:127, AccessKeyID = LTAIu7a3tu8FVWLh
+2019-03-27 16:58:40:601 [TRACE_INFO]:  Func:aliasr_get_config, Line:128, AccessKeySecret = yS4n8Tt2mRNdPHk4N4FsK3uL0Qq0hT
+2019-03-27 16:58:40:605 [TRACE_INFO]:  Func:asr_cntl_tcp_thread, Line:26, pAddress = 192.168.58.129, iPort = 10277
+2019-03-27 16:58:41:041 [TRACE_INFO]:  Func:aliasr_get_config, Line:126, AppKey = jaKnIyQ2f69ZXxqI
+2019-03-27 16:58:41:044 [TRACE_INFO]:  Func:aliasr_get_config, Line:127, AccessKeyID = LTAIu7a3tu8FVWLh
+2019-03-27 16:58:41:045 [TRACE_INFO]:  Func:aliasr_get_config, Line:128, AccessKeySecret = yS4n8Tt2mRNdPHk4N4FsK3uL0Qq0hT
+2019-03-27 16:58:41:053 [TRACE_INFO]:  Func:asr_cntl_tcp_thread, Line:26, pAddress = 192.168.58.129, iPort = 10277
+2019-03-27 16:59:14:805 [TRACE_INFO]:  Func:aliasr_get_config, Line:126, AppKey = jaKnIyQ2f69ZXxqI
+2019-03-27 16:59:14:808 [TRACE_INFO]:  Func:aliasr_get_config, Line:127, AccessKeyID = LTAIu7a3tu8FVWLh
+2019-03-27 16:59:14:809 [TRACE_INFO]:  Func:aliasr_get_config, Line:128, AccessKeySecret = yS4n8Tt2mRNdPHk4N4FsK3uL0Qq0hT
+2019-03-27 16:59:14:818 [TRACE_INFO]:  Func:asr_cntl_tcp_thread, Line:26, pAddress = 192.168.58.129, iPort = 10277
+2019-03-27 16:59:19:455 [TRACE_FLOW]:  Func:asr_malloc_cntl_info, Line:149, enter asr_malloc_cntl_info()
+2019-03-27 16:59:19:455 [TRACE_INFO]:  Func:asr_malloc_cntl_info, Line:165, malloc g_AsrInfoIndex = 1
+2019-03-27 16:59:19:456 [TRACE_INFO]:  Func:asr_cntl_process, Line:85, asr_malloc_cntl_info success! pAsrRequest->uuid = 9b43d9a2-506e-11e9-b1d5-a92f5541c242, ulAsrInfoIndex = 1
+2019-03-27 16:59:19:457 [TRACE_DEBUG]:  Func:ALIASR, Line:80, enter ALIASR::ALIASR()
+2019-03-27 16:59:19:457 [TRACE_DEBUG]:  Func:aliasr_generate_Token, Line:167, enter ALIASR::aliasr_generate_Token()
+2019-03-27 16:59:19:545 [TRACE_DEBUG]:  Func:ali_asr_thread, Line:469, enter ali_asr_thread
+2019-03-27 16:59:19:709 [TRACE_INFO]:  Func:onTranscriptionStarted, Line:350, pAsrObj->strTaskId = a484a1fb2f8449928bf2d15881c7e209, pAsrObj->ulAsrInfoNumber = 1
+2019-03-27 16:59:34:432 [TRACE_FLOW]:  Func:aliasr_send_stop_asr_request, Line:259, enter aliasr_send_stop_asr_request()

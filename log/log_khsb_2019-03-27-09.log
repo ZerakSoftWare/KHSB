@@ -1,0 +1,155 @@
+2019-03-27 09:27:25:589 [TRACE_INFO]:  Func:aliasr_get_config, Line:121, AppKey = jaKnIyQ2f69ZXxqI
+2019-03-27 09:27:25:593 [TRACE_INFO]:  Func:aliasr_get_config, Line:122, AccessKeyID = LTAIu7a3tu8FVWLh
+2019-03-27 09:27:25:594 [TRACE_INFO]:  Func:aliasr_get_config, Line:123, AccessKeySecret = yS4n8Tt2mRNdPHk4N4FsK3uL0Qq0hT
+2019-03-27 09:27:25:606 [TRACE_INFO]:  Func:testesl, Line:124, Connect Success, 0
+2019-03-27 09:27:25:609 [TRACE_INFO]:  Func:asr_cntl_tcp_thread, Line:22, pAddress = 192.168.58.129
+2019-03-27 09:27:25:611 [TRACE_INFO]:  Func:asr_cntl_tcp_thread, Line:26, pAddress = 192.168.58.129, iPort = 10277
+2019-03-27 09:27:32:138 [TRACE_INFO]:  Func:aliasr_get_config, Line:121, AppKey = jaKnIyQ2f69ZXxqI
+2019-03-27 09:27:32:142 [TRACE_INFO]:  Func:aliasr_get_config, Line:122, AccessKeyID = LTAIu7a3tu8FVWLh
+2019-03-27 09:27:32:142 [TRACE_INFO]:  Func:aliasr_get_config, Line:123, AccessKeySecret = yS4n8Tt2mRNdPHk4N4FsK3uL0Qq0hT
+2019-03-27 09:27:32:152 [TRACE_INFO]:  Func:testesl, Line:124, Connect Success, 0
+2019-03-27 09:27:32:156 [TRACE_INFO]:  Func:asr_cntl_tcp_thread, Line:22, pAddress = 192.168.58.129
+2019-03-27 09:27:32:160 [TRACE_INFO]:  Func:asr_cntl_tcp_thread, Line:26, pAddress = 192.168.58.129, iPort = 10277
+2019-03-27 09:29:42:580 [TRACE_INFO]:  Func:aliasr_get_config, Line:121, AppKey = jaKnIyQ2f69ZXxqI
+2019-03-27 09:29:42:585 [TRACE_INFO]:  Func:aliasr_get_config, Line:122, AccessKeyID = LTAIu7a3tu8FVWLh
+2019-03-27 09:29:42:587 [TRACE_INFO]:  Func:aliasr_get_config, Line:123, AccessKeySecret = yS4n8Tt2mRNdPHk4N4FsK3uL0Qq0hT
+2019-03-27 09:29:42:597 [TRACE_INFO]:  Func:testesl, Line:124, Connect Success, 0
+2019-03-27 09:29:42:598 [TRACE_INFO]:  Func:asr_cntl_tcp_thread, Line:22, pAddress = 192.168.58.129
+2019-03-27 09:29:42:601 [TRACE_INFO]:  Func:asr_cntl_tcp_thread, Line:26, pAddress = 192.168.58.129, iPort = 10277
+2019-03-27 09:30:00:961 [TRACE_INFO]:  Func:aliasr_get_config, Line:121, AppKey = jaKnIyQ2f69ZXxqI
+2019-03-27 09:30:00:967 [TRACE_INFO]:  Func:aliasr_get_config, Line:122, AccessKeyID = LTAIu7a3tu8FVWLh
+2019-03-27 09:30:00:968 [TRACE_INFO]:  Func:aliasr_get_config, Line:123, AccessKeySecret = yS4n8Tt2mRNdPHk4N4FsK3uL0Qq0hT
+2019-03-27 09:30:00:975 [TRACE_INFO]:  Func:testesl, Line:124, Connect Success, 0
+2019-03-27 09:30:00:977 [TRACE_INFO]:  Func:asr_cntl_tcp_thread, Line:22, pAddress = 192.168.58.129
+2019-03-27 09:30:00:979 [TRACE_INFO]:  Func:asr_cntl_tcp_thread, Line:26, pAddress = 192.168.58.129, iPort = 10277
+2019-03-27 09:30:17:934 [TRACE_INFO]:  Func:aliasr_get_config, Line:121, AppKey = jaKnIyQ2f69ZXxqI
+2019-03-27 09:30:17:937 [TRACE_INFO]:  Func:aliasr_get_config, Line:122, AccessKeyID = LTAIu7a3tu8FVWLh
+2019-03-27 09:30:17:938 [TRACE_INFO]:  Func:aliasr_get_config, Line:123, AccessKeySecret = yS4n8Tt2mRNdPHk4N4FsK3uL0Qq0hT
+2019-03-27 09:30:17:948 [TRACE_INFO]:  Func:testesl, Line:124, Connect Success, 0
+2019-03-27 09:30:17:952 [TRACE_INFO]:  Func:asr_cntl_tcp_thread, Line:22, pAddress = 192.168.58.129
+2019-03-27 09:30:17:954 [TRACE_INFO]:  Func:asr_cntl_tcp_thread, Line:26, pAddress = 192.168.58.129, iPort = 10277
+2019-03-27 09:35:37:029 [TRACE_FLOW]:  Func:asr_cntl_process, Line:61, enter asr_cntl_process()
+2019-03-27 09:35:37:031 [TRACE_INFO]:  Func:asr_cntl_process, Line:69, uuid = 9e66783a-5030-11e9-8cfc-05aa164779a1, len = 596, seq = 4317, sample = 1600 data_len = 320
+2019-03-27 09:35:37:043 [TRACE_FLOW]:  Func:asr_malloc_cntl_info, Line:141, enter asr_malloc_cntl_info()
+2019-03-27 09:35:37:045 [TRACE_INFO]:  Func:asr_malloc_cntl_info, Line:157, malloc g_AsrInfoIndex = 1
+2019-03-27 09:35:37:048 [TRACE_INFO]:  Func:asr_cntl_process, Line:85, asr_malloc_cntl_info success! pAsrRequest->uuid = 9e66783a-5030-11e9-8cfc-05aa164779a1, ulAsrInfoIndex = 1
+2019-03-27 09:35:37:072 [TRACE_DEBUG]:  Func:ALIASR, Line:75, enter ALIASR::ALIASR()
+2019-03-27 09:35:37:083 [TRACE_DEBUG]:  Func:aliasr_generate_Token, Line:161, enter ALIASR::aliasr_generate_Token()
+2019-03-27 09:35:37:283 [TRACE_INFO]:  Func:asr_cntl_process, Line:105, enter FS_ASR_ASR_DATA
+2019-03-27 09:35:37:288 [TRACE_FLOW]:  Func:asr_cntl_process, Line:61, enter asr_cntl_process()
+2019-03-27 09:35:37:300 [TRACE_INFO]:  Func:asr_cntl_process, Line:69, uuid = 9e66783a-5030-11e9-8cfc-05aa164779a1, len = 596, seq = 4318, sample = 1600 data_len = 320
+2019-03-27 09:35:37:308 [TRACE_INFO]:  Func:asr_cntl_process, Line:105, enter FS_ASR_ASR_DATA
+2019-03-27 09:35:37:310 [TRACE_FLOW]:  Func:asr_cntl_process, Line:61, enter asr_cntl_process()
+2019-03-27 09:35:37:310 [TRACE_INFO]:  Func:asr_cntl_process, Line:69, uuid = 9e66783a-5030-11e9-8cfc-05aa164779a1, len = 596, seq = 4319, sample = 1600 data_len = 320
+2019-03-27 09:35:37:310 [TRACE_INFO]:  Func:asr_cntl_process, Line:105, enter FS_ASR_ASR_DATA
+2019-03-27 09:35:37:323 [TRACE_FLOW]:  Func:asr_cntl_process, Line:61, enter asr_cntl_process()
+2019-03-27 09:35:37:324 [TRACE_INFO]:  Func:asr_cntl_process, Line:69, uuid = 9e66783a-5030-11e9-8cfc-05aa164779a1, len = 596, seq = 4320, sample = 1600 data_len = 320
+2019-03-27 09:35:37:326 [TRACE_INFO]:  Func:asr_cntl_process, Line:105, enter FS_ASR_ASR_DATA
+2019-03-27 09:35:37:328 [TRACE_FLOW]:  Func:asr_cntl_process, Line:61, enter asr_cntl_process()
+2019-03-27 09:35:37:338 [TRACE_INFO]:  Func:asr_cntl_process, Line:69, uuid = 9e66783a-5030-11e9-8cfc-05aa164779a1, len = 596, seq = 4321, sample = 1600 data_len = 320
+2019-03-27 09:35:37:340 [TRACE_INFO]:  Func:asr_cntl_process, Line:105, enter FS_ASR_ASR_DATA
+2019-03-27 09:35:37:340 [TRACE_FLOW]:  Func:asr_cntl_process, Line:61, enter asr_cntl_process()
+2019-03-27 09:35:37:342 [TRACE_INFO]:  Func:asr_cntl_process, Line:69, uuid = 9e66783a-5030-11e9-8cfc-05aa164779a1, len = 596, seq = 4322, sample = 1600 data_len = 320
+2019-03-27 09:35:37:343 [TRACE_INFO]:  Func:asr_cntl_process, Line:105, enter FS_ASR_ASR_DATA
+2019-03-27 09:35:37:347 [TRACE_FLOW]:  Func:asr_cntl_process, Line:61, enter asr_cntl_process()
+2019-03-27 09:35:37:369 [TRACE_INFO]:  Func:asr_cntl_process, Line:69, uuid = 9e66783a-5030-11e9-8cfc-05aa164779a1, len = 596, seq = 4323, sample = 1600 data_len = 320
+2019-03-27 09:35:37:370 [TRACE_INFO]:  Func:asr_cntl_process, Line:105, enter FS_ASR_ASR_DATA
+2019-03-27 09:35:37:382 [TRACE_FLOW]:  Func:asr_cntl_process, Line:61, enter asr_cntl_process()
+2019-03-27 09:35:37:386 [TRACE_INFO]:  Func:asr_cntl_process, Line:69, uuid = 9e66783a-5030-11e9-8cfc-05aa164779a1, len = 596, seq = 4324, sample = 1600 data_len = 320
+2019-03-27 09:35:37:387 [TRACE_INFO]:  Func:asr_cntl_process, Line:105, enter FS_ASR_ASR_DATA
+2019-03-27 09:35:37:388 [TRACE_FLOW]:  Func:asr_cntl_process, Line:61, enter asr_cntl_process()
+2019-03-27 09:35:37:399 [TRACE_INFO]:  Func:asr_cntl_process, Line:69, uuid = 9e66783a-5030-11e9-8cfc-05aa164779a1, len = 596, seq = 4325, sample = 1600 data_len = 320
+2019-03-27 09:35:37:402 [TRACE_INFO]:  Func:asr_cntl_process, Line:105, enter FS_ASR_ASR_DATA
+2019-03-27 09:35:37:403 [TRACE_FLOW]:  Func:asr_cntl_process, Line:61, enter asr_cntl_process()
+2019-03-27 09:35:37:404 [TRACE_INFO]:  Func:asr_cntl_process, Line:69, uuid = 9e66783a-5030-11e9-8cfc-05aa164779a1, len = 596, seq = 4326, sample = 1600 data_len = 320
+2019-03-27 09:35:37:407 [TRACE_INFO]:  Func:asr_cntl_process, Line:105, enter FS_ASR_ASR_DATA
+2019-03-27 09:35:37:412 [TRACE_FLOW]:  Func:asr_cntl_process, Line:61, enter asr_cntl_process()
+2019-03-27 09:35:37:426 [TRACE_INFO]:  Func:asr_cntl_process, Line:69, uuid = 9e66783a-5030-11e9-8cfc-05aa164779a1, len = 596, seq = 4327, sample = 1600 data_len = 320
+2019-03-27 09:35:37:432 [TRACE_INFO]:  Func:asr_cntl_process, Line:105, enter FS_ASR_ASR_DATA
+2019-03-27 09:35:37:433 [TRACE_FLOW]:  Func:asr_cntl_process, Line:61, enter asr_cntl_process()
+2019-03-27 09:35:37:439 [TRACE_INFO]:  Func:asr_cntl_process, Line:69, uuid = 9e66783a-5030-11e9-8cfc-05aa164779a1, len = 596, seq = 4328, sample = 1600 data_len = 320
+2019-03-27 09:35:37:461 [TRACE_INFO]:  Func:asr_cntl_process, Line:105, enter FS_ASR_ASR_DATA
+2019-03-27 09:35:37:462 [TRACE_FLOW]:  Func:asr_cntl_process, Line:61, enter asr_cntl_process()
+2019-03-27 09:35:37:466 [TRACE_INFO]:  Func:asr_cntl_process, Line:69, uuid = 9e66783a-5030-11e9-8cfc-05aa164779a1, len = 596, seq = 4329, sample = 1600 data_len = 320
+2019-03-27 09:35:37:472 [TRACE_INFO]:  Func:asr_cntl_process, Line:105, enter FS_ASR_ASR_DATA
+2019-03-27 09:35:37:476 [TRACE_FLOW]:  Func:asr_cntl_process, Line:61, enter asr_cntl_process()
+2019-03-27 09:35:37:481 [TRACE_INFO]:  Func:asr_cntl_process, Line:69, uuid = 9e66783a-5030-11e9-8cfc-05aa164779a1, len = 596, seq = 4330, sample = 1600 data_len = 320
+2019-03-27 09:35:37:486 [TRACE_INFO]:  Func:asr_cntl_process, Line:105, enter FS_ASR_ASR_DATA
+2019-03-27 09:35:37:488 [TRACE_FLOW]:  Func:asr_cntl_process, Line:61, enter asr_cntl_process()
+2019-03-27 09:35:37:492 [TRACE_INFO]:  Func:asr_cntl_process, Line:69, uuid = 9e66783a-5030-11e9-8cfc-05aa164779a1, len = 596, seq = 4331, sample = 1600 data_len = 320
+2019-03-27 09:35:37:494 [TRACE_INFO]:  Func:asr_cntl_process, Line:105, enter FS_ASR_ASR_DATA
+2019-03-27 09:35:37:497 [TRACE_FLOW]:  Func:asr_cntl_process, Line:61, enter asr_cntl_process()
+2019-03-27 09:35:37:501 [TRACE_INFO]:  Func:asr_cntl_process, Line:69, uuid = 9e66783a-5030-11e9-8cfc-05aa164779a1, len = 596, seq = 4332, sample = 1600 data_len = 320
+2019-03-27 09:35:37:501 [TRACE_INFO]:  Func:asr_cntl_process, Line:105, enter FS_ASR_ASR_DATA
+2019-03-27 09:35:37:509 [TRACE_FLOW]:  Func:asr_cntl_process, Line:61, enter asr_cntl_process()
+2019-03-27 09:35:37:511 [TRACE_INFO]:  Func:asr_cntl_process, Line:69, uuid = 9e66783a-5030-11e9-8cfc-05aa164779a1, len = 596, seq = 4333, sample = 1600 data_len = 320
+2019-03-27 09:35:37:511 [TRACE_INFO]:  Func:asr_cntl_process, Line:105, enter FS_ASR_ASR_DATA
+2019-03-27 09:35:37:511 [TRACE_FLOW]:  Func:asr_cntl_process, Line:61, enter asr_cntl_process()
+2019-03-27 09:35:37:513 [TRACE_INFO]:  Func:asr_cntl_process, Line:69, uuid = 9e66783a-5030-11e9-8cfc-05aa164779a1, len = 596, seq = 4334, sample = 1600 data_len = 320
+2019-03-27 09:35:37:519 [TRACE_INFO]:  Func:asr_cntl_process, Line:105, enter FS_ASR_ASR_DATA
+2019-03-27 09:35:37:519 [TRACE_FLOW]:  Func:asr_cntl_process, Line:61, enter asr_cntl_process()
+2019-03-27 09:35:37:520 [TRACE_INFO]:  Func:asr_cntl_process, Line:69, uuid = 9e66783a-5030-11e9-8cfc-05aa164779a1, len = 596, seq = 4335, sample = 1600 data_len = 320
+2019-03-27 09:35:37:523 [TRACE_INFO]:  Func:asr_cntl_process, Line:105, enter FS_ASR_ASR_DATA
+2019-03-27 09:35:37:528 [TRACE_FLOW]:  Func:asr_cntl_process, Line:61, enter asr_cntl_process()
+2019-03-27 09:35:37:528 [TRACE_INFO]:  Func:asr_cntl_process, Line:69, uuid = 9e66783a-5030-11e9-8cfc-05aa164779a1, len = 596, seq = 4336, sample = 1600 data_len = 320
+2019-03-27 09:35:37:529 [TRACE_INFO]:  Func:asr_cntl_process, Line:105, enter FS_ASR_ASR_DATA
+2019-03-27 09:35:37:529 [TRACE_FLOW]:  Func:asr_cntl_process, Line:61, enter asr_cntl_process()
+2019-03-27 09:35:37:539 [TRACE_INFO]:  Func:asr_cntl_process, Line:69, uuid = 9e66783a-5030-11e9-8cfc-05aa164779a1, len = 596, seq = 4337, sample = 1600 data_len = 320
+2019-03-27 09:35:37:540 [TRACE_INFO]:  Func:asr_cntl_process, Line:105, enter FS_ASR_ASR_DATA
+2019-03-27 09:35:37:544 [TRACE_FLOW]:  Func:asr_cntl_process, Line:61, enter asr_cntl_process()
+2019-03-27 09:35:37:547 [TRACE_INFO]:  Func:asr_cntl_process, Line:69, uuid = 9e66783a-5030-11e9-8cfc-05aa164779a1, len = 596, seq = 4338, sample = 1600 data_len = 320
+2019-03-27 09:35:37:549 [TRACE_INFO]:  Func:asr_cntl_process, Line:105, enter FS_ASR_ASR_DATA
+2019-03-27 09:35:37:554 [TRACE_DEBUG]:  Func:ali_asr_thread, Line:369, enter ali_asr_thread
+2019-03-27 09:35:37:808 [TRACE_FLOW]:  Func:recv_translate_start, Line:226, enter recv_translate_start
+2019-03-27 09:35:37:816 [TRACE_INFO]:  Func:recv_translate_start, Line:228, TaskId = 6dd3dcdc778b4345abba6a90f45a6594
+2019-03-27 09:35:43:246 [TRACE_FLOW]:  Func:asr_cntl_process, Line:61, enter asr_cntl_process()
+2019-03-27 09:35:43:308 [TRACE_INFO]:  Func:asr_cntl_process, Line:69, uuid = a2c390ca-5030-11e9-8d07-05aa164779a1, len = 596, seq = 0, sample = 1600 data_len = 320
+2019-03-27 09:35:43:309 [TRACE_FLOW]:  Func:asr_malloc_cntl_info, Line:141, enter asr_malloc_cntl_info()
+2019-03-27 09:38:43:868 [TRACE_INFO]:  Func:aliasr_get_config, Line:121, AppKey = jaKnIyQ2f69ZXxqI
+2019-03-27 09:38:43:871 [TRACE_INFO]:  Func:aliasr_get_config, Line:122, AccessKeyID = LTAIu7a3tu8FVWLh
+2019-03-27 09:38:43:872 [TRACE_INFO]:  Func:aliasr_get_config, Line:123, AccessKeySecret = yS4n8Tt2mRNdPHk4N4FsK3uL0Qq0hT
+2019-03-27 09:38:43:886 [TRACE_INFO]:  Func:testesl, Line:124, Connect Success, 0
+2019-03-27 09:38:43:888 [TRACE_INFO]:  Func:asr_cntl_tcp_thread, Line:22, pAddress = 192.168.58.129
+2019-03-27 09:38:43:890 [TRACE_INFO]:  Func:asr_cntl_tcp_thread, Line:26, pAddress = 192.168.58.129, iPort = 10277
+2019-03-27 09:38:49:511 [TRACE_INFO]:  Func:asr_cntl_process, Line:69, uuid = 11ca5080-5031-11e9-8d28-05aa164779a1, len = 596, seq = 0, sample = 1600 data_len = 320
+2019-03-27 09:38:49:515 [TRACE_FLOW]:  Func:asr_malloc_cntl_info, Line:141, enter asr_malloc_cntl_info()
+2019-03-27 09:38:49:516 [TRACE_INFO]:  Func:asr_malloc_cntl_info, Line:157, malloc g_AsrInfoIndex = 1
+2019-03-27 09:38:49:516 [TRACE_INFO]:  Func:asr_cntl_process, Line:85, asr_malloc_cntl_info success! pAsrRequest->uuid = 11ca5080-5031-11e9-8d28-05aa164779a1, ulAsrInfoIndex = 1
+2019-03-27 09:38:49:517 [TRACE_DEBUG]:  Func:ALIASR, Line:75, enter ALIASR::ALIASR()
+2019-03-27 09:38:49:518 [TRACE_DEBUG]:  Func:aliasr_generate_Token, Line:161, enter ALIASR::aliasr_generate_Token()
+2019-03-27 09:38:49:802 [TRACE_INFO]:  Func:asr_cntl_process, Line:69, uuid = 11ca5080-5031-11e9-8d28-05aa164779a1, len = 596, seq = 0, sample = 1600 data_len = 320
+2019-03-27 09:38:49:804 [TRACE_INFO]:  Func:asr_cntl_process, Line:69, uuid = 11ca5080-5031-11e9-8d28-05aa164779a1, len = 596, seq = 0, sample = 1600 data_len = 320
+2019-03-27 09:38:49:805 [TRACE_INFO]:  Func:asr_cntl_process, Line:69, uuid = 11ca5080-5031-11e9-8d28-05aa164779a1, len = 596, seq = 0, sample = 1600 data_len = 320
+2019-03-27 09:38:49:806 [TRACE_INFO]:  Func:asr_cntl_process, Line:69, uuid = 11ca5080-5031-11e9-8d28-05aa164779a1, len = 596, seq = 23648, sample = 1600 data_len = 320
+2019-03-27 09:38:49:806 [TRACE_INFO]:  Func:asr_cntl_process, Line:69, uuid = 11ca5080-5031-11e9-8d28-05aa164779a1, len = 596, seq = 23649, sample = 1600 data_len = 320
+2019-03-27 09:38:49:807 [TRACE_INFO]:  Func:asr_cntl_process, Line:69, uuid = 11ca5080-5031-11e9-8d28-05aa164779a1, len = 596, seq = 23650, sample = 1600 data_len = 320
+2019-03-27 09:38:49:808 [TRACE_INFO]:  Func:asr_cntl_process, Line:69, uuid = 11ca5080-5031-11e9-8d28-05aa164779a1, len = 596, seq = 23651, sample = 1600 data_len = 320
+2019-03-27 09:38:49:808 [TRACE_INFO]:  Func:asr_cntl_process, Line:69, uuid = 11ca5080-5031-11e9-8d28-05aa164779a1, len = 596, seq = 23652, sample = 1600 data_len = 320
+2019-03-27 09:38:49:808 [TRACE_INFO]:  Func:asr_cntl_process, Line:69, uuid = 11ca5080-5031-11e9-8d28-05aa164779a1, len = 596, seq = 23653, sample = 1600 data_len = 320
+2019-03-27 09:38:49:809 [TRACE_INFO]:  Func:asr_cntl_process, Line:69, uuid = 11ca5080-5031-11e9-8d28-05aa164779a1, len = 596, seq = 23654, sample = 1600 data_len = 320
+2019-03-27 09:38:49:810 [TRACE_INFO]:  Func:asr_cntl_process, Line:69, uuid = 11ca5080-5031-11e9-8d28-05aa164779a1, len = 596, seq = 23655, sample = 1600 data_len = 320
+2019-03-27 09:38:49:810 [TRACE_INFO]:  Func:asr_cntl_process, Line:69, uuid = 11ca5080-5031-11e9-8d28-05aa164779a1, len = 596, seq = 23656, sample = 1600 data_len = 320
+2019-03-27 09:38:49:810 [TRACE_INFO]:  Func:asr_cntl_process, Line:69, uuid = 11ca5080-5031-11e9-8d28-05aa164779a1, len = 596, seq = 23657, sample = 1600 data_len = 320
+2019-03-27 09:38:49:811 [TRACE_INFO]:  Func:asr_cntl_process, Line:69, uuid = 11ca5080-5031-11e9-8d28-05aa164779a1, len = 596, seq = 23658, sample = 1600 data_len = 320
+2019-03-27 09:38:49:811 [TRACE_INFO]:  Func:asr_cntl_process, Line:69, uuid = 11ca5080-5031-11e9-8d28-05aa164779a1, len = 596, seq = 23659, sample = 1600 data_len = 320
+2019-03-27 09:38:49:811 [TRACE_DEBUG]:  Func:ali_asr_thread, Line:369, enter ali_asr_thread
+2019-03-27 09:38:49:829 [TRACE_INFO]:  Func:asr_cntl_process, Line:69, uuid = 11ca5080-5031-11e9-8d28-05aa164779a1, len = 596, seq = 23660, sample = 1600 data_len = 320
+2019-03-27 09:38:49:849 [TRACE_INFO]:  Func:asr_cntl_process, Line:69, uuid = 11ca5080-5031-11e9-8d28-05aa164779a1, len = 596, seq = 23661, sample = 1600 data_len = 320
+2019-03-27 09:38:49:869 [TRACE_INFO]:  Func:asr_cntl_process, Line:69, uuid = 11ca5080-5031-11e9-8d28-05aa164779a1, len = 596, seq = 23662, sample = 1600 data_len = 320
+2019-03-27 09:38:49:891 [TRACE_INFO]:  Func:asr_cntl_process, Line:69, uuid = 11ca5080-5031-11e9-8d28-05aa164779a1, len = 596, seq = 23663, sample = 1600 data_len = 320
+2019-03-27 09:38:49:910 [TRACE_INFO]:  Func:asr_cntl_process, Line:69, uuid = 11ca5080-5031-11e9-8d28-05aa164779a1, len = 596, seq = 23664, sample = 1600 data_len = 320
+2019-03-27 09:38:49:930 [TRACE_INFO]:  Func:asr_cntl_process, Line:69, uuid = 11ca5080-5031-11e9-8d28-05aa164779a1, len = 596, seq = 23665, sample = 1600 data_len = 320
+2019-03-27 09:38:49:949 [TRACE_INFO]:  Func:asr_cntl_process, Line:69, uuid = 11ca5080-5031-11e9-8d28-05aa164779a1, len = 596, seq = 23666, sample = 1600 data_len = 320
+2019-03-27 09:38:49:970 [TRACE_INFO]:  Func:asr_cntl_process, Line:69, uuid = 11ca5080-5031-11e9-8d28-05aa164779a1, len = 596, seq = 23667, sample = 1600 data_len = 320
+2019-03-27 09:38:49:991 [TRACE_INFO]:  Func:asr_cntl_process, Line:69, uuid = 11ca5080-5031-11e9-8d28-05aa164779a1, len = 596, seq = 23668, sample = 1600 data_len = 320
+2019-03-27 09:38:49:992 [TRACE_FLOW]:  Func:recv_translate_start, Line:226, enter recv_translate_start
+2019-03-27 09:38:49:993 [TRACE_INFO]:  Func:recv_translate_start, Line:228, TaskId = 125f37a1612c4a129512770b20e508de
+2019-03-27 09:38:50:009 [TRACE_INFO]:  Func:asr_cntl_process, Line:69, uuid = 11ca5080-5031-11e9-8d28-05aa164779a1, len = 596, seq = 23669, sample = 1600 data_len = 320
+2019-03-27 09:38:50:029 [TRACE_INFO]:  Func:asr_cntl_process, Line:69, uuid = 11ca5080-5031-11e9-8d28-05aa164779a1, len = 596, seq = 23670, sample = 1600 data_len = 320
+2019-03-27 09:38:50:050 [TRACE_INFO]:  Func:asr_cntl_process, Line:69, uuid = 11ca5080-5031-11e9-8d28-05aa164779a1, len = 596, seq = 23670, sample = 1600 data_len = 320
+2019-03-27 09:38:50:070 [TRACE_INFO]:  Func:asr_cntl_process, Line:69, uuid = 11ca5080-5031-11e9-8d28-05aa164779a1, len = 596, seq = 23670, sample = 1600 data_len = 320
+2019-03-27 09:38:50:090 [TRACE_INFO]:  Func:asr_cntl_process, Line:69, uuid = 11ca5080-5031-11e9-8d28-05aa164779a1, len = 596, seq = 23670, sample = 1600 data_len = 320
+2019-03-27 09:38:50:110 [TRACE_INFO]:  Func:asr_cntl_process, Line:69, uuid = 11ca5080-5031-11e9-8d28-05aa164779a1, len = 596, seq = 23670, sample = 1600 data_len = 320
+2019-03-27 09:38:50:140 [TRACE_INFO]:  Func:asr_cntl_process, Line:69, uuid = 11ca5080-5031-11e9-8d28-05aa164779a1, len = 596, seq = 23670, sample = 1600 data_len = 320
+2019-03-27 09:41:16:058 [TRACE_INFO]:  Func:asr_cntl_process, Line:69, uuid = 67b8fc3a-5031-11e9-8d33-05aa164779a1, len = 596, seq = 0, sample = 1600 data_len = 320
+2019-03-27 09:41:16:063 [TRACE_FLOW]:  Func:asr_malloc_cntl_info, Line:141, enter asr_malloc_cntl_info()
